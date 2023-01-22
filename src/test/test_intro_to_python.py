@@ -1,3 +1,5 @@
+#Intro to Python and Github Assignment
+#Kendrick Dawkins
 
 import numpy as np
 
